@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="App">
-      <div id="background-canvas"><canvas></canvas></div>
+      <div id="background"><canvas id="background-canvas"></canvas></div>
       <div className="App-container">
         <Header />
         <Body />
