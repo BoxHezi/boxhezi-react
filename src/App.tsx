@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
+import Header from './views/Header'
+import Body from './views/Body'
+
+import start from "./Background"
+
+import { useEffect } from 'react';
+
 function App() {
+  useEffect(() => {
+    const body = document.querySelector('body');
+    start(body!.clientHeight, body!.clientWidth);
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div id="background-canvas"><canvas></canvas></div>
+      <div className="App-container">
+        <Header />
+        <Body />
+      </div>
     </div>
-  );
+  )
 }
 
 export default App;

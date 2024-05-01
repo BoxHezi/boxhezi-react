@@ -1,0 +1,6 @@
+.command {
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}

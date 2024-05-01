@@ -1,0 +1,10 @@
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+#summary > h2, #summary > p {
+  margin: 0.25rem auto;
+  padding: 0;
+}

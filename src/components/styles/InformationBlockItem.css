@@ -1,0 +1,22 @@
+.item-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item-flex * {
+  margin: 0 0.25rem;
+}
+
+.subtitle {
+  color: #808080;
+}
+
+ul {
+  margin-top: 0.2rem;
+}
+
+ul li {
+  text-align: justify;
+}

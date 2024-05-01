@@ -1,0 +1,19 @@
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin: 0;
+}
+
+.title > h2 {
+  margin: 0;
+}
+
+hr {
+  margin: 0;
+}
+
+ul li {
+  list-style-type: none;
+  text-align: left;
+}

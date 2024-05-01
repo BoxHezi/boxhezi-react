@@ -1,0 +1,155 @@
+{
+  "summary": [
+    {
+      "contents": [
+        "Ability to handle common vulnerabilities",
+        "Knowledge in cyber kill chain, vulnerability management; skilled in Python, Java",
+        "Experienced in maintaining self-hosted cloud infrastructure",
+        "Native mandarin speaker, fluent in English"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Information Security Engineer",
+      "subtitle": "Zhejiang University NGICS Platform",
+      "timeframe": "Jan 2022 - Arp 2023",
+      "contents": [
+        "A research oriented role at Zhejiang University NGICS Platform under the College of Control Science and Engineering.",
+        "Investigating the behaviors behind mainstream DCS (Distributed Control System) and PLC (Programmable Logic Controller) with the aid of Protocol Analysis and Reverse Engineering",
+        "From security perspective, discover potential attacks which can cause harm to the system.",
+        "Build real-case scenario to demonstrate attacks in order to raise awareness."
+      ]
+    },
+    {
+      "title": "Backend Developer - Intern",
+      "subtitle": "Alibaba",
+      "timeframe": "Aug 2020 - Sept 2020",
+      "contents": [
+        "Participated in the development of the simulation lottery system based on Java.",
+        "Conducted system function design and development",
+        "Engaged in the design and development of system function modules, drew activity diagrams, database ER diagrams, system architecture diagram, etc.",
+        "Applied extra encryption, hashing when required"
+      ]
+    },
+    {
+      "title": "Web Backend Developer - Intern",
+      "subtitle": "Wuhan Zhaolaobao Network Technology Co., Ltd",
+      "timeframe": "Dec 2017 - Feb 2018",
+      "contents": [
+        "Using SpringMVC to interact with MySQL database for CRUD operations"
+      ]
+    }
+  ],
+  "project": [
+    {
+      "title": "Covid-19 Tracking Website for Australia",
+      "subtitle": "Front-end Dev",
+      "timeframe": "Apr 2020 - Present",
+      "contents": [
+        "Developed an information website that could display Covid-19 in Australia in real time through the real data of Covid-19 provided by the Australian government",
+        "Designed the website, completed the layout, functional module design, etc., and used ReactJS to complete the production of the front-end page",
+        "Cleaned the data and used the JS third-party library (echarts.js) to draw different types of charts on the data to provide data basis for information search"
+      ],
+      "links": [
+        {
+          "linkTitle": "",
+          "link": "https://covid-19-au.com/"
+        },
+        {
+          "linkTitle": "github/covid-19-au",
+          "link": "https://github.com/covid-19-au/covid-19-au.github.io"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Monash University",
+      "subtitle": "Master of Cybersecurity",
+      "timeframe": "Mar 2020 - Nov 2021",
+      "contents": [
+        "Participated in Monash Security (monsec) club",
+        "Participated in Downunder CTF"
+      ]
+    },
+    {
+      "title": "RMIT University",
+      "subtitle": "Bachelor of Computer Science",
+      "timeframe": "Feb 2016 - Nov 2019",
+      "contents": [
+        "Active member of RMIT Information Security Collective club and RMIT Ultimate Frisbee Club",
+        "Attended CySCA 2018 and played Ultimate Frisbee National Uni Game 2018 for RMIT."
+      ]
+    }
+  ],
+  "certification": [
+    {
+      "title": "100W Cybersecurity Practices for Industrial Control Systems",
+      "subtitle": "U.S. Department of Homeland Security",
+      "contents": [
+        "Credential ID: E-G03380"
+      ]
+    },
+    {
+      "title": "Cisco Certified CyberOps Associate",
+      "subtitle": "Cisco",
+      "timeframe": "Issued Jul 2023 - Expires Jul 2026",
+      "contents": [
+        "Credential ID: CSCO14419732"
+      ],
+      "links": [
+        {
+          "linkTitle": "CyberOps",
+          "link": "https://www.credly.com/badges/02156c19-2ce7-4d82-a71f-5d2d9dc37442/public_url"
+        }
+      ]
+    },
+    {
+      "title": "Certified Cyber Threat Intelligence Analyst",
+      "subtitle": "Udemy",
+      "timeframe": "Issued Aug 2023",
+      "contents": [
+        "Credential ID: UC-ad22c0e2-e670-46b1-ac01-cfa088b53453"
+      ],
+      "links": [
+        {
+          "linkTitle": "",
+          "link": "https://www.udemy.com/certificate/UC-ad22c0e2-e670-46b1-ac01-cfa088b53453/"
+        }
+      ]
+    },
+    {
+      "title": "Security Code Review Ninja",
+      "subtitle": "OWASP.org",
+      "links": [
+        {
+          "linkTitle": "Security Code Review Ninja",
+          "link": "https://securecodingdojo.owasp.org/public/badge/eyJiYWRnZUluZm8iOnsibGluZTEiOiJTZWN1cml0eSIsImxpbmUyIjoiQ29kZSBSZXZpZXciLCJsaW5lMyI6Ik5pbmphIiwiYmciOiJwdXJwbGUifSwiZ2l2ZW5OYW1lIjoiQm94IiwiZmFtaWx5TmFtZSI6Ikx1IiwiY29tcGxldGlvbiI6IldlZCBGZWIgMTUgMjAyMyAwMjoyMzo1OSBHTVQrMDAwMCAoQ29vcmRpbmF0ZWQgVW5pdmVyc2FsIFRpbWUpIiwiaWRIYXNoIjoiN2IxYmM5MjZlNCJ9.%2B%2Bc9eVIbbWyFRE%2BIvDjHWyd3KO8NxxFxLd%2B0nQGTTpE%3D"
+        }
+      ]
+    },
+    {
+      "title": "Secure Coding Black Belt",
+      "subtitle": "OWASP.org",
+      "links": [
+        {
+          "linkTitle": "Secure Coding Black Belt",
+          "link": "https://securecodingdojo.owasp.org/public/badge/eyJiYWRnZUluZm8iOnsibGluZTEiOiJTZWN1cmUgQ29kaW5nIiwibGluZTIiOiJCbGFjayBCZWx0IiwibGluZTMiOiIiLCJiZyI6ImJsYWNrIn0sImdpdmVuTmFtZSI6IkJveCIsImZhbWlseU5hbWUiOiJMdSIsImNvbXBsZXRpb24iOiJXZWQgRmViIDE1IDIwMjMgMDU6NTQ6NDkgR01UKzAwMDAgKENvb3JkaW5hdGVkIFVuaXZlcnNhbCBUaW1lKSIsImlkSGFzaCI6IjdiMWJjOTI2ZTQifQ%3D%3D.1DxHEHwkzrEOJJIWRMpyhLpJzNI78ceGfFQgh3adJi8%3D"
+        }
+      ]
+    },
+    {
+      "title": "Pentesterlab's Unix Badge",
+      "subtitle": "PentesterLab"
+    },
+    {
+      "title": "Pentesterlab's Introduction Badge",
+      "subtitle": "PentesterLab"
+    },
+    {
+      "title": "Pentesterlab's Essential Badge",
+      "subtitle": "PentesterLab"
+    }
+  ]
+}
